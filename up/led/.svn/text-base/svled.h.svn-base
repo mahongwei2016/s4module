@@ -1,0 +1,13 @@
+#define IO_MAGIC 'S'
+#define LED0_ON _IO(IO_MAGIC,0)
+#define LED0_OFF _IO(IO_MAGIC,1)
+#define LED1_ON _IO(IO_MAGIC,2)
+#define LED1_OFF _IO(IO_MAGIC,3)
+#define LED2_ON _IO(IO_MAGIC,4)
+#define LED2_OFF _IO(IO_MAGIC,5)
+#define LED3_ON _IO(IO_MAGIC,6)
+#define LED3_OFF _IO(IO_MAGIC,7)
+#define LED4_ON _IO(IO_MAGIC,8)
+#define LED4_OFF _IO(IO_MAGIC,9)
+#define LED5_ON _IO(IO_MAGIC,10)
+#define LED5_OFF _IO(IO_MAGIC,11)
