@@ -1,0 +1,1 @@
+cmd_/home/mhw/tiny6410/friendlyarm/trunk/module/down/1/5/key.ko := arm-linux-ld -EL -r  -T /home/mhw/tiny6410/friendlyarm/trunk/linux-2.6.38/scripts/module-common.lds --build-id  -o /home/mhw/tiny6410/friendlyarm/trunk/module/down/1/5/key.ko /home/mhw/tiny6410/friendlyarm/trunk/module/down/1/5/key.o /home/mhw/tiny6410/friendlyarm/trunk/module/down/1/5/key.mod.o
